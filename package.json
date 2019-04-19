@@ -17,6 +17,8 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^4.1.4"
+    "dotenv": "^7.0.0",
+    "electron": "^4.1.4",
+    "twitter": "^1.7.1"
   }
 }
